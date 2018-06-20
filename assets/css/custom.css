@@ -1,0 +1,79 @@
+* {
+    /*    border: 1px solid black !important;*/
+}
+
+.custom-mem-img {
+    margin-right: 2em !important;
+}
+
+.custom-mem-txt p {
+    margin-bottom: 0.25em !important;
+
+}
+
+.custom-mem-txt a {
+    display: block;
+    border: none !important;
+    margin-bottom: 1em !important;
+}
+
+.custom-mem-btn {
+    margin-top: 3em !important;
+}
+
+.custom-mem-box {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.custom-mem-box div {
+    text-align: center;
+    width: 32%;
+
+    padding-right: 1em;
+    margin-right: 0.5em;
+    margin-bottom: 0.5em;
+
+}
+
+.custom-course-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.custom-course-container .custom-btn {
+    margin-bottom: 1.5em !important;
+}
+
+.custom-course-container .card {
+    margin-bottom: 1.5em !important;
+}
+
+.custom-pub-container h3 {
+    margin-bottom: 0.5em;
+    /*    padding: 10em !important;*/
+}
+
+.custom-header {
+    margin-top: 3em;
+    padding: 1.3em 0em;
+    border-bottom: #f56a6a 5px solid;
+
+    display: flex !important;
+    justify-content: space-between !important;
+}
+
+.custom-header a {
+    font-family: "Roboto Slab", serif;
+    border: none;
+    color: #7f888f;
+    font-weight: 500;
+    font-size: 1.1em;
+}
+
+.header-logo {
+    float:right;
+    margin-left: 0.5em;
+    height: 25px !important;
+
+}
