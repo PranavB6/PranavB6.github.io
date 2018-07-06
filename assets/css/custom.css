@@ -6,6 +6,16 @@
     --main-color: #f56a6a;
 }
 
+.custom-disabled-nav-link {
+    color: #909aa2 !important;    
+}
+
+.custom-disabled-nav-link:hover {
+    color: #909aa2 !important;    
+}
+
+/* Members */
+
 .custom-mem-img {
     margin-right: 2em !important;
 }
@@ -23,11 +33,17 @@
 
 .custom-mem-btn {
     margin-top: 3em !important;
+    max-width: 15em;
 }
 
 .custom-mem-box {
     display: flex;
     flex-wrap: wrap;
+}
+
+.custom-mem-box h3 {
+    color: #757575 !important;
+    font-weight: 100 !important;
 }
 
 .custom-mem-box div {
@@ -39,6 +55,24 @@
     margin-bottom: 0.5em;
 
 }
+
+.custom-former-graduate-box {
+/*    border-radius: 1em;*/
+/*    padding: 1em;*/
+/*    background-color: #FAFAFA;*/
+/*    border-bottom: 1px solid #BDBDBD;*/
+    
+}
+
+.custom-former-graduate-box h3 {
+/*    margin: auto auto !important;*/
+/*    border-bottom: 1px dotted #757575;*/
+    font-weight: 900 !important;
+    margin-bottom: 0.25em !important;
+    
+}
+
+/* Courses  */
 
 .custom-course-container {
     display: flex;
@@ -53,10 +87,21 @@
     margin-bottom: 1.5em !important;
 }
 
+/* Publications */
+
 .custom-pub-container h3 {
     margin-bottom: 0.5em;
     /*    padding: 10em !important;*/
 }
+
+.custom-pub-icon {
+    height: 2em;
+}
+
+.custom-pub-icon-link {
+    border: none;
+}
+/* Header */
 
 .custom-header {
     margin-top: 3em;
@@ -79,9 +124,30 @@
     float:right;
     margin-left: 0.5em;
     height: 25px !important;
-
 }
 
+.custom-sm-btm-space {
+    margin-bottom: 0.5em;
+}
+
+.custom-project-img-1 {
+    float:left !important;
+    width: 25em;
+    overflow: hidden;
+    margin: 1em;
+}
+
+.custom-project-img-2 {
+    width: 100%;
+    overflow: hidden;
+    margin: 1em;
+}
+
+.custom-page-ending {
+    background: linear-gradient(var(--main-color), #e75656);
+    width:100%;
+    height: 6em;
+}
 
 /* ------------------- Arrow ---------------------- */
 
@@ -90,7 +156,7 @@ i {
     border-width: 0 3px 3px 0;
     display: inline-block;
     padding: 0.35em;
-    margin: auto 0.2em;
+    margin: auto 0.3em;
     border-radius: 2px;
 }
 
