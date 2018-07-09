@@ -1,0 +1,214 @@
+
+cosupervising (with I. Nikolaidis) Wanxin Gao, PhD, ongoing cosupervising (with I. Nikolaidis) Alan Yong, MSc, ongoing
+
+Graduate Students Who Have Finished Their Degree
+
+Ke Li
+Ph.D. Thesis: "On Channel Access Design for Wireless Networks with Multi-Packet Reception", June 2015
+
+Mohamed Shazly
+Ph.D. Thesis: "Resource Sharing and Reliability of Wireless Sensor Networks", June 2014
+
+Chen Liu
+Ph.D. Thesis: “An Innovative MultiVariable Control Framework for Effective Wireless Resource Management”, September 2012
+
+Baochun Bai
+defended Ph.D. Thesis: “Multiview Video Compression”, September 2009
+
+Shoudong Zou
+Ph.D. Thesis: “Extending the Lifetime of Wireless Sensor Networks with Data Aggregation”, March 2009
+
+Yuxi Li
+Ph.D. Thesis: “Optimizing Network Performance with Changing and Uncertain Traffic”, August 2006
+
+Aikaterini Vlachaki
+M.Sc. Thesis: "Synchronization and Wavelet Compression for Background Interference Classification in Wireless Environments", Apr 2017
+
+Mohammad Islam
+M.Sc. Thesis: "Reliable Wireless Sensor Networks Using Multiple Sinks and Degree-Constrained Shortest Path Trees", Feb 2013
+
+Todd Mortimer
+M.Sc. Thesis: “A MAC Protocol for Multihop RP-CDMA Ad hoc Wireless Networks” , April 2012
+
+Abdullah Reza
+M.Sc. Thesis: “Robust Grid-based Deployment Schemes for Underwater Optical Sensor Networks” , August 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+================================================================
+Publications from 2006
+Refereed Journal Publications
+
+Distributed Classification of Acoustic Targets in Wireless Audio-Sensor Networks
+B. Malhotra, I. Nikolaidis, and J. Harms
+Computer Networks Journal, Vol 52, No. 13, Sep 2008, 2582-2593
+
+Configurable Active Multicast Congestion Control
+B.Bai, J. Harms, and Y.Li, 
+ComputerNetworks Journal, Vol 52, No. 7, 2008, May 2008, pp. 1410-1432
+
+Efficient Aggregation Using First Hop Selection in WSNs
+S. Zou, I. Nikolaidis, and J. Harms
+International Journal of Sensor Networks: Special issue on Energy-Efficient Algorithm and Protocol Design in Sensor Networks, Vol 4, Nos 1/2, 2008, pp 55-67
+
+A Simple Vehicle Classification Framework for Wireless Audio-Sensor Networks
+B. Malhotra, I. Nikolaidis, and J. Harms 
+Journal of Telecommunications and Information Technology, No. 1, 2008, pp. 43-50
+
+============================================================ --------------------------------------------------------
+
+Refereed Conference and Workshop Publications
+
+RSSI Quantization for Indoor Localization Services
+W Gao, I Nikolaidis and J Harms
+Proceedings of IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), Montreal, October 2017, 7 pages.
+
+
+Charging-Aware Mobility Modeling for Wirelessly Chargeable Intermittently Connected MANETs
+W Gao and J Harms
+Proceedings of IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), Montreal, October 2017, 7 pages.
+
+--------------------------------------------------------
+
+Wavelet-Based Analysis of Interference in WSNs
+A Vlachaki, I Nikolaidis, J Harms
+IEEE Conference on Local Computer Networks (LCN), Dubai, United Arab Emirates, November 2016, 4 pages.
+
+Towards Dynamic Capacity Management for the Masses
+A Vlachaki, I Nikolaidis, and J Harms 
+Proceedings of International Conference on Ad Hoc Networks (ADHOCNETS), Ottawa, Canada (September 2016), 13 pages.
+
+--------------------------------------------------------
+
+Mechanisms for Multi-Packet Reception Protocols in Multi-Hop Networks 
+K. Li , I Nikolaidis, J Harms
+Proceedings of 18th ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems, Cancun, Mexico, Nov 2015, 8 pages.
+
+On Selecting a Reliable Topology in Wireless Sensor Networks
+I Haque, M Islam, and J Harms
+Proceedings of IEEE International Conference on Communications (ICC), London, Jun 2015, 7 pages.
+
+--------------------------------------------------------
+
+On the Potential of MPT/MPR Wireless Networks
+K Li, I Nikolaidis, and J Harms
+Proceedings of the 39th IEEE International Conference on Local Computer Networks (LCN), Edmonton, Sep 2014, 9 pages.
+
+A Study of Channel Classification Agreement in Urban Wireless Sensor Network Environments
+A Vlachaki, I Nikolaidis and J Harms
+Proceedings of the 3rd International Conference on Sensor Networks (SENSORNETS), Lisbon, Portugal, Jan 2014, pp 249- 259.
+
+Effective Scheduling to Tame Wireless Multi-Hop Forwarding
+C Liu, J Harms, and M H MacGregor
+International Conference on Distributed Computing and Networking (ICDCN), Coimbatore, India, Jan 2014, pp. 393-407.
+
+--------------------------------------------------------
+
+Location Uncertainty and Target Coverage in Wireless Sensor Network Deployment 
+MH Shazly, ES Elmallah, and J Harms
+Proceedings of IEEE Conference on Distributed Computing in Sensor Systems (DCOSS), pp. 20-27, Cambridge, Massachusetts, May 2013.
+
+The Analysis of the Additive-Increase Multiplicative-Decrease MAC Protocol
+K Li, I Nikolaidis, and J Harms
+Proceedings of 10th Annual Conference on Wireless On-Demand Network Systems and Services (WONS), Extended Abstract, 3 pages, Banff, Canada, Mar 2013.
+
+--------------------------------------------------------
+
+An Approach for Bounding Breach Path Detection Reliability in Wireless Sensor Networks
+MH Shazly, ES Elmallah, and J Harms
+37th IEEE Conference on Local Computer Networks (LCN 2012), pp 585 - 592, Clearwater, Florida, Oct 2012
+
+On Breach Path Detection Reliability of Wireless Sensor Grids
+MH Shazly, ES Elmallah, and J Harms
+Proceedings of IEEE International Conference on Computer Communication Networks (ICCCN), 7 pages, Munich, Germany July 2012.
+
+A MAC Protocol for Multihop RP-CDMA Ad Hoc Wireless Networks 
+T Mortimer and J Harms
+Proceedings of IEEE International Conference on Communications (ICC), 6 pages, Ottawa, Canada, Jun 2012.
+
+Balancing Area Coverage in Partitioned Wireless Sensor Networks
+MH Shazly, E Elmallah, and J Harms
+Proceedings of IEEE Wireless Communications and Networking Conference (WCNC), 6 pages, Paris, France, Apr 2012.
+
+--------------------------------------------------------
+
+On Area Coverage Reliability of Wireless Sensor Networks
+M Shazly, ES Elmallah, JJ Harms and H AboElFotoh
+In 36th IEEE Conference on Local Computer Networks (LCN 2011), 8 pages, Bonn, Germany. Oct 2011. IEEE Computer Society.
+
+G-Local Resource Management: Achieving Global Optimization Via Local Inference Without Message Passing
+C Liu, JJ Harms and MH MacGregor
+In 36th Annual IEEE Conference on Local Computer Networks (LCN 2011), 8 pages, Bonn, Germany. Oct 2011. IEEE.
+
+MG-Local: A Multivariable Control Framework for Optimal Wireless Resource Management
+C Liu, MH MacGregor and JJ Harms
+In 23rd International Teletraffic Congress (ITC 2011), 8 pages, San Francisco. Sep 2011.
+
+ Balanced Slices in Wireless Sensor Networks
+M Shazly, ES Elmallah and JJ Harms
+In IEEE Wireless Communications and Networking Conference (WCNC 2011), 440-445, Cancun, Mexico. March 2011. IEEE Communications Society.
+
+--------------------------------------------------------
+
+Optimal Control to Improve Throughput, Energy Consumption and Fairness in Wireless Networks
+C. Liu, J. Harms and M. MacGregor
+Proceedings of the 13th ACM International Conference on Modeling, Analysis and Simulation (MSWiM'10) (accepted as short paper), Bodrum, Turkey, October 2010, pp. 235-239.
+
+--------------------------------------------------------
+
+Optimal Control of Spatial, Temporal and Bandwidth Contention in Wireless Ad Hoc Networks
+C. Liu, M. MacGregor, and J. Harms
+Proceedings of 2009 IEEE International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob), Marrakech, Morocco, pages 263–269, October, 2009.
+
+Robust Grid-Based Deployment Schemes for Underwater Optical Sensor Networks
+A. Reza and J. Harms
+IEEE Conference on Local Computer Networks (LCN), Zurich, October 2009
+
+On the Trade-Off Between User-Location Privacy and Queried-Location Privacy in Wireless Sensor Networks
+R. Vogt, M. Nascimento, and J. Harms
+8th International Conference on Ad hoc Networks and Wireless (AdhocNow), Murcia, Spain, Sept 2009.
+
+Hybrid Resource Allocation in Wireless Ad Hoc Networks
+C. Liu, M. MacGregor, J. Harms and C. Phelps 
+Proceedings of the 43rd IEEE International Conference on Communications (ICC), Dresden, Germany, Jun 2009.
+
+Routing & Aggregation Strategies for Contour Map Applications in Sensor Networks 
+S. Zou, I. Nikolaidis, and J. Harms
+7th International Conference on Wired / Wireless Internet Communications (WWIC), Enschede, The Netherlands, May 2009, pp. 36-47.
+
+Learning-based Multiview Video Coding
+B. Bai, L. Cheng, C. Li, P. Boulanger, and J. Harms
+27th Picture Coding Symposium, May 2009, Chicago, 4 pages.
+
+Symmetric Distributed Multiview Video Coding
+B. Bai, Y. Yang, C. Lei, P. Boulanger, J. Harms
+IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Taipei, Taiwan, April 2009, 4 pages.
+
+--------------------------------------------------------
+
+Improving Multi-Path Routing Performance in WSNs by Tuning IEEE 802.11 Parameters
+C. Liu, M. MacGregor and J. Harms
+6th ACM International Workshop on Mobility Management and Wireless Access, (short paper), Oct 2008, pp. 142-146
+
+Symmetric Distributed Source Coding Using LDPC 
+B. Bai, Y. Yang, J. Harms, and P. Boulanger 
+Proceedings of the 42nd IEEE International Conference on Communications, Beijing, China, May 2008, CD-ROM proceedings.
+
+--------------------------------------------------------
+
+Dynamic Multichannel Scheduling for 802.15.3 WPANs
+J. Shen, I. Nikolaidis, and J. Harms
+Proceedings of the 50th IEEE Globecom, Washington, Nov 2007, pp. 4461-4466.
+
+

@@ -6,6 +6,23 @@
     --main-color: #f56a6a;
 }
 
+.news article {
+    display: flex;
+    margin-bottom: 2em;
+    
+    border-bottom: 1px solid #bab8bb;
+}
+
+.news article h3 {
+    margin-bottom: 0;
+}
+
+.news-icon {
+    width: 5em;
+    margin-right: 1.5em;
+    
+}
+
 .custom-disabled-nav-link {
     color: #909aa2 !important;    
 }
@@ -25,15 +42,22 @@
 
 }
 
+/*
 .custom-mem-txt a {
     display: block;
     border: none !important;
     margin-bottom: 1em !important;
 }
+*/
 
-.custom-mem-btn {
-    margin-top: 3em !important;
-    max-width: 15em;
+.custom-email {
+    display: block;
+    border: none !important;
+    margin-bottom: 2em !important;
+}
+
+.custom-width-med {
+    width: 12em;
 }
 
 .custom-mem-box {
@@ -70,6 +94,14 @@
     font-weight: 900 !important;
     margin-bottom: 0.25em !important;
     
+}
+
+.full-width {
+    width: 100%;
+}
+
+.space-above {
+    margin-top: 1em;
 }
 
 /* Courses  */
@@ -149,6 +181,9 @@
     height: 6em;
 }
 
+.custom-course-btn {
+    width: 12em;
+}
 /* ------------------- Arrow ---------------------- */
 
 i {
@@ -179,3 +214,10 @@ i {
     transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
 }
+
+
+[aria-expanded="false"] > .expanded,
+[aria-expanded="true"] > .collapsed {
+  display: none;
+}
+
