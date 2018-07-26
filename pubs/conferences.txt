@@ -1,0 +1,329 @@
+
+--------------------------------------------------------
+
+<div>
+<h3> Modeling Network Coding in Duty-Cycled Networks </h3>
+<p>  V. Ho, I. Nikolaidis <br />
+11th Intl. Conference on Advanced Computing and Applications (ACOMP 2017), Ho Chi Minh city, Viet Nam, 29 November - 1 December 2017, pp. 1-8. </p>
+</div>
+
+<div>
+<h3> RSSI Quantization for Indoor Localization Services </h3>
+<p> W. Gao, I. Nikolaidis, J. J. Harms <br />
+28th Annual IEEE Intl. Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC 2017), Montreal, Canada, 8-13 October 2017, pp. 1-7. </p>
+</div>
+
+<div>
+<h3> Indoor Localization: A Cost-Effectiveness vs </h3>
+<p> P. Mohebi, I. Nikolaidis, E. Stroulia <br />
+Accuracy Study. 30th IEEE International Symposium on Computer-Based Medical Systems (CBMS 2017), Thessaloniki, Greece, 22-24 June 2017, pp. 552-557. </p>
+</div>
+
+--------------------------------------------------------
+
+<div>
+<h3> Modeling Time-Varying Topologies of Duty-Cycled Wireless Sensor Networks </h3>
+<p> V. Ho, I. Nikolaidis <br />
+7th Symposium on Information and Communication Technology (SoICT 2016), Ho Chi Minh city, Viet Nam, 7-10 November 2016, pp. 187-194. </p>
+</div>
+
+<div>
+<h3> Wavelet-Based Analysis of Interference in WSNs </h3>
+<p> A. Vlachaki, I. Nikolaidis, J. J. Harms <br />
+41st IEEE Conference on Local Computer Networks (LCN 2016), Dubai, United Arab Emirates, 7-10 November 2016, pp. 639-642. </p>
+</div>
+
+<div>
+<h3> A Top-Down Aggregation Convergecast Schedule Construction </h3>
+<p> M. Jakob, I. Nikolaidis <br />
+9th IFIP Wireless and Mobile Networking Conference (WMNC 2016), Colmar, France, 11-13 July 2016, pp. 17-24. </p>
+</div>
+
+--------------------------------------------------------
+
+<div>
+<h3> Mechanisms for Multi-Packet Reception Protocols in Multi-Hop </h3>
+<p> K. Li, I. Nikolaidis, J. J. Harms <br />
+18th International Conference on Modeling Analysis and Simulation (MSWiM 2015), Cancun, Mexico, 2-6 November 2015, pp. 23-30. </p>
+</div>
+
+<div>
+<h3> Sensor Placement for Indoor Multi-Occupant Tracking </h3>
+<p> M. V. Azghandi, I. Nikolaidis, E. Stroulia <br />
+6th Intl. Conf. on Information, Intelligence, Systems and Applications (IISA 2015), Corfu, Greece, 6-8 July 2015, pp. 1-8. </p>
+</div>
+
+<div>
+<h3> Multi-Occupant Movement Tracking in Smart Home Environments </h3>
+<p> M. V. Azghandi, I. Nikolaidis, E. Stroulia <br />
+13th Intl. Conf. on Smart Homes and Health Telematics (ICOST 2015), Geneva, Switzerland, 10-12 June 2015, pp. 319-324. </p>
+</div>
+
+<div>
+<h3> A Schedule Template Construction Technique for Duty Cycled Sensor Networks </h3>
+<p> V. Ho, I. Nikolaidis <br />
+14th Intl. Conf. on Ad-Hoc, Mobile, and Wireless Networks (ADHOCNOW 2015), Athens, Greece, 29 June – 2 July 2015, pp. 48-61. </p>
+</div>
+
+<div>
+<h3> Seasonally Aware Routing for Thermoelectric Energy Harvesting Wireless Sensor Networks </h3>
+<p> A. Kollias, I. Nikolaidis <br />
+4th. Intl. Conf. on Smart Cities and Green ICT Systems (SMARTGREENS 2015), Lisbon, Portugal, 20-22 May 2015, pp. 174-184. </p>
+</div>
+
+<div>
+<h3> Indoor Sensor Placement for Diverse Sensor-Coverage Footprints </h3>
+<p> M. V. Azghandi, I. Nikolaidis, E. Stroulia <br />
+4th Intl. Conf. on Sensor Networks (SENSORNETS 2015), Angers, France, 11-13 February 2015, pp. 25-35. </p>
+</div>
+
+--------------------------------------------------------
+
+<div>
+<h3> On the Potential of MPT/MPR Wireless Networks </h3>
+<p> K. Li, I. Nikolaidis, J. J. Harms <br />
+39th IEEE Conference on Local Computer Networks (LCN 2014), Edmonton, Canada, 8-11 September 2014, pp. 46-54. </p>
+</div>
+
+<div>
+<h3> In-Wall Thermoelectric Harvesting for Wireless Sensor Networks </h3>
+<p> A. Kollias,  I. Nikolaidis <br />
+3rd Intl. Conference on Smart Cities and Green ICT Systems (SMARTGREENS 2014), Barcelona, Spain, 3-4 April 2014, pp. 213-221. (best paper award) </p>
+</div>
+
+<div>
+<h3> A Study of Channel Classification Agreement in Urban Wireless Sensor Network Environment </h3>
+<p> A. Vlachaki, I. Nikolaidis, J. J. Harms <br />
+3rd Intl. Conference on Sensor Networks (SENSORNETS 2014), Lisbon, Portugal, 7-9 January 2014, pp. 249-259. </p>
+</div>
+
+--------------------------------------------------------
+
+<div>
+<h3> Using Simulations to Integrate Technology into Health Care Aides’ Workflow </h3>
+<p> S. King, L. Liu, E. Stroulia, I. Nikolaidis <br />
+2013 Intl. Conference on E-Learning in the Workplace (ICELW 2013), New York, United States, 12-14 June 2013, pp. 1-4. </p>
+</div>
+
+<div>
+<h3> On the Application of Pipelining in Aggregation Convergecast Scheduling </h3>
+<p> E. De Souza,  I. Nikolaidis <br />
+14th IEEE International Symposium on "A World of Wireless, Mobile and Multimedia" (WoWMoM 2013), Madrid, Spain, 4-7 June 2013, pp. 1-9. </p>
+</div>
+
+<div>
+<h3> Additive-Increase Multiplicative-Decrease MAC Protocol with Multi-Packet Reception </h3>
+<p> K. Li, M. Ghanbarinejad, I. Nikolaidis, C. Schlegel <br />
+11th International Conference on Wired/Wireless Internet Communications (WWIC 2013), Saint-Petersburg, Russian Federation, 5-7 June 2013, pp. 15-28. </p>
+</div>
+
+<div>
+<h3> The Analysis of the Additive-Increase Multiplicative-Decrease MAC Protocol </h3>
+<p> K. Li, I. Nikolaidis, J. J. Harms <br />
+10th Annual Conference on Wireless On-demand Network Systems and Services (WONS 2013), Banff, Canada, 18-20 March 2013, pp. 122-124. </p>
+</div>
+
+<div>
+<h3> Evaluation of RSS-based Position Tracking using WSNs for Resource Localization in an Indoor Construction Environment </h3>
+<p> M. Soleimanifar, M. Lu, I. Nikolaidis, X. Shen <br />
+2nd International Conference on Sensor Networks (SENSORNETS 2013), Barcelona, 19-21 February 2013, pp. 189-192. </p>
+</div>
+
+--------------------------------------------------------
+
+<div>
+<h3> fAARS: A Platform for Location-Aware Trans-reality Games </h3>
+<p> L. Gutierrez, E. Stroulia, I. Nikolaidis <br />
+11th International Conference on Entertainment Computing (ICEC 2012), Bremen, Germany, 26-29 September 2012, pp. 185-192. </p>
+</div>
+
+<div>
+<h3> Impulsive Interference Avoidance in Dense Wireless Sensor Networks </h3>
+<p> N. M. Boers, I. Nikolaidis, P. Gburzynski <br />
+11th International Conference on Ad-hoc, Mobile, and Wireless Networks (ADHOCNOW 2012), Belgrade, Serbia, 9-11 July 2012, pp. 167-180.  (best presentation award) </p>
+</div>
+
+<div>
+<h3> A Remotely Programmable Smart Pillbox for Enhancing Medication Adherence </h3>
+<p> B. Abbey, A. Alipour, L. Gilmour, C. Camp, C. Hofer, R. Lederer, G. Rasmussen, L. Liu, I. Nikolaidis, E. Stroulia, C. Sadowski <br />
+25th International Symposium on Computer-Based Medical Systems (CBMS 2012), Rome, Italy, 20-22 June 2012, pp. 1-4. </p>
+</div>
+
+<div>
+<h3> PicOS & VNETI - Enabling Real Life Layer-less WSN Applications </h3>
+<p> N. M. Boers, I. Nikolaidis, P. Gburzynski, W. Olesinski <br />
+1st International Conference on Sensor Networks (SENSORNETS 2012), Rome, Italy, 24-26 February 2012, pp. 53-58. </p>
+</div>
+
+--------------------------------------------------------
+
+<div>
+<h3> A Robust Positioning Architecture for Construction Resources Localization Using Wireless Sensor Networks </h3>
+<p> M. Soleimanifar, M. Lu, I. Nikolaidis, S. Lee <br />
+The 2011 Winter Simulation Conference (WSC 2011), Phoenix, United States, 11-14 December 2011, pp. 3562-3572. </p>
+</div>
+
+<div>
+<h3> Biased Shortest Path Trees in Wireless Networks </h3>
+<p> B. Malhotra, I. Nikolaidis, M. A. Nascimento, S. Bressan <br />
+30th IEEE International Performance Computing and Communications Conference (IPCCC 2011), Orlando, USA, 17-19 November 2011, pp. 1-6. </p>
+</div>
+
+<div>
+<h3> Modeling Aggregation Convergecast Scheduling Using Constraints </h3>
+<p> E. De Souza, I. Nikolaidis <br />
+14th ACM International Conference on Modeling, Analysis and Simulation of Wireles (MSWiM 2011), Miami, USA, 31 October - 4 November 2011, pp. 231-234. </p>
+</div>
+
+<div>
+<h3> The Smart Condo: Integrating Sensor Networks and Virtual Worlds </h3>
+<p> V. Ganev, D. Chodos, I. Nikolaidis, E. Stroulia <br />
+2nd International Workshop on Software Engineering for Sensor Network Applications (SESENA 2011), Waikiki, HI, USA, 22 May 2011, pp 49-54. </p>
+</div>
+
+<div>
+<h3> On Coordination Tools in the PicOS Tuples System </h3>
+<p> B. Shimony, I. Nikolaidis, P. Gburzynski, E. Stroulia <br />
+2nd International Workshop on Software Engineering for Sensor Network Applications (SESENA 2011), Waikiki, HI, USA, 22 May 2011, pp 19-24. </p>
+</div>
+
+<div>
+<h3> Tradeoffs of Combining Network Coding and Duty Cycling in WSNs </h3>
+<p> V. Ho, I. Nikolaidis <br />
+ 9th Annual Communication Networks and Services Research Conference (CNSR 2011), Ottawa, ON, Canada, 2-5 May 2011,  pp. 231-238. (best paper award) </p>
+</div>
+
+<div>
+<h3> Workshop on Pervasive Collaboration and Social Networking (PERCOL 2011) </h3>
+<p> L. Gutierrez, I. Nikolaidis, E. Stroulia, S. Gouglas, G. Rockwell, P. Boechler, M. Carbonaro, S. King <br />
+IEEE PERCOM 2011 Workshop: Seattle, WA, USA, 25 March 2011, pp 508-513. </p>
+</div>
+
+--------------------------------------------------------
+
+<div>
+<h3> Patterns in the RSSI Traces from an Indoor Urban Environment </h3>
+<p>  N. M. Boers, I. Nikolaidis,  P. Gburzynski <br />
+15th IEEE International Workshop on Computer Aided Modeling Analysis and Design of Communication Links and Networks (CAMAD 2010),  Coconut Creek, FL, USA, 3-4 December 2010, pp. 61-65. </p>
+</div>
+
+<div>
+<h3> PicOS Tuples: Easing Event Based Programming in Tiny Pervasive Systems </h3>
+<p> B. Shimony, I. Nikolaidis, P. Gburzynski, E. Stroulia <br />
+7th International Workshop on Model-Based Methodologies for Pervasive and Embedded Software (MOMPES 2010), Antwerp, Belgium, 20 September 2010, pp. 53-60. </p>
+</div>
+
+<div>
+<h3> A New Aggregate Local Mobility (ALM) Clustering Algorithm for VANETs</h3>
+<p> E. DeSouza, I. Nikolaidis, P. Gburzynski <br />
+2010 IEEE International Conference on Communications (ICC 2010), Cape Town, South Africa, 23-27 May 2010, pp 2874-2878. </p>
+</div>
+
+<div>
+<h3> WISH-RIBS: Broadcast Scheduling and Opportunistic Failure Recovery in Wireless Networks</h3>
+<p> B. Malhotra, I. Nikolaidis, M. A. Nascimento <br />
+8th Annual Communication Networks and Services Research Conference (CNSR 2010), Montreal, QC, Canada, 11-14 May 2010, pp 108-115. </p>
+</div>
+
+<div>
+<h3> SensorGIS: An Integrated Architecture for Information Systems Based on Sensor Networks</h3>
+<p>  J. Huang,  N. M. Boers, E. Stroulia, P. Gburzynski, I. Nikolaidis <br />
+6th International Conference on Web Information Systems and Technologies (WEBIST 2010), Valencia, Spain, 7-10 April 2010, pp 199-202. </p>
+</div>
+
+--------------------------------------------------------
+
+<div>
+<h3> Specification Design Method for Reactive Embedded Systems - A Case Study </h3>
+<p> B. Shimony, I. Nikolaidis, P. Gburzynski, E. Stroulia <br />
+30th IFAC Workshop on Real-Time Programming and 4th International Workshop on Real-Time Software (WRTP/RTS 2009) Mragowo, Poland, 12-13 October 2009, pp. 173-180. </p>
+</div>
+
+<div>
+<h3> On the Impact of Node Placement and Profile Point Selection on Indoor Localization, 2nd IFIP WG 6 </h3>
+<p> I. T. Haque, I. Nikolaidis, P. Gburzynski <br />
+8 Joint Conference on Wireless and Mobile Networking (WMNC 2009), 220-231, Gdansk, Poland, 9-11 September 2009, pp. 220-231. </p>
+</div>
+
+<div>
+<h3> Expected Path Length for Angle and Distance-based Localized Routing</h3>
+<p> I. T. Haque, I. Nikolaidis, P. Gburzynski <br />
+2009 International Symposium on Performance Evaluation of Computer and Telecommunication Systems (SPECTS 2009), Istanbul, Turkey, 13-16 July 2009, pp 137-142. </p>
+</div>
+
+<div>
+<h3>  A Scheme for Indoor Localization Through RF Profiling </h3>
+<p> I. T. Haque, I. Nikolaidis, P. Gburzynski <br />
+ICC International Workshop on Synergies in Communications and Localization (SyCoLo 2009), 5 pages, Dresden, Germany, 18 June 2009 </p>
+</div>
+
+<div>
+<h3> On the Benefits of Nondeterminism in Location-based Forwarding</h3>
+<p> I. T. Haque, I. Nikolaidis, P. Gburzynski <br />
+2009 IEEE International Conference on Communications (ICC 2009), Dresden, Germany 14-18 June 2009. </p>
+</div>
+
+<div>
+<h3> Software Engineering for Health Education and Care Delivery Systems: The Smart Condo Project </h3>
+<p> E. Stroulia, D. Chodos, N. Boers, J. Huang, P. Gburzynski, I. Nikolaidis <br />
+2009 ICSE Workshop on Software Engineering in Health Care (SEHC 2009), Vancouver, BC, Canada, 18-19 May 2009, pp 20-28. </p>
+</div>
+
+<div>
+<h3> Routing & Aggregation Strategies for Contour Map Applications in Sensor Networks </h3>
+<p> S. Zou, I. Nikolaidis, J. J. Harms <br />
+7th International Conference on Wired / Wireless Internet Communications (WWIC 2009), Enschede, The Netherlands, 27-29 May 2009, pp 36-47. </p>
+</div>
+
+<div>
+<h3> The Smart Condo: Visualizing Independent Living Environments in a Virtual World </h3>
+<p> N. Boers, D. Chodos, J. Huang, P. Gburzynski, I. Nikolaidis, E. Stroulia <br />
+3rd International Conference on Pervasive Health (PERVASIVEHEALTH 2009), London, United Kingdom, 1-3 April 2009,  pp 1-8. </p>
+</div>
+
+--------------------------------------------------------
+
+<div>
+<h3> Supporting Wireless Application Development via Virtual Execution </h3>
+<p> N. Boers, P. Gburzynski, I. Nikolaidis, W. Olesinski <br />
+2008 Workshop on Wireless and Unstructured Networking (WAHOC 2008), Wisla, Poland, 20-22 October 2008, pp 853-860. </p>
+</div>
+
+<div>
+<h3> Better Tree - Better Fruits: Using Dominating Set Trees for MAX Queries </h3>
+<p> B. Malhotra, M. A. Nascimento, I. Nikolaidis <br />
+5th International Workshop in Data Management for Sensor Networks (DMSN 2008), Auckland, New Zealand, 24 August 2008, pp. 1-7 </p>
+</div>
+
+<div>
+<h3> Distributed and Efficient Classifiers for Wireless Audio-Sensor Networks </h3>
+<p> B. Malhotra, I. Nikolaidis, M. A. Nascimento <br />
+5th International Conference on Networked Sensing Systems (INSS 2008), Kanazawa, Japan 17-19 June 2008, pp. 203-206, </p>
+</div>
+
+--------------------------------------------------------
+
+<div>
+<h3> Dynamic Multichannel Scheduling for 802:15.3 WPANs</h3>
+<p> J. Shen, I. Nikolaidis, J. Harms <br />
+2007 IEEE Global Telecommunications Conference (GLOBECOM 2007), Washington DC, USA, 26-30 November 2007, pp. 4461-4466. </p>
+</div>
+
+<div>
+<h3> Acoustic Target Classification In Wireless Audio--Sensor Networks </h3>
+<p> B. Malhotra, I. Nikolaidis, J. Harms <br />
+Workshop on Ad-Hoc Wireless Networks: Urban Legends and Reality (WAHOC 2007) Wisla, Poland, 15-17 October 2007, pp. 955-964. </p>
+</div>
+
+<div>
+<h3> Aggregation vs Load Balancing in WSNs </h3>
+<p> S. Zou, I. Nikolaidis, J. Harms <br />
+12th International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD 2007), Athens, Greece, 7 September 2007, 5ms. </p>
+</div>
+
+<div>
+<h3> On the Pitfalls of Directional Location--based Randomized Routing </h3>
+<p> I. T. Haque, I. Nikolaidis, P. Gburzynski <br />
+2007 International Symposium on Performance Evaluation of Computer and Telecommunication Systems (SPECTS 2007), San Diego, CA, USA, 16-18 July 2007, pp 41-48. </p>
+</div>
+

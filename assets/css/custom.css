@@ -6,6 +6,24 @@
     --main-color: #f56a6a;
 }
 
+/* ----------- Nav ----------- */
+.custom-disabled-nav-link {
+    color: #909aa2 !important;    
+}
+
+.custom-disabled-nav-link:hover {
+    color: #909aa2 !important;    
+}
+
+/* ----------- Index ----------- */
+
+.banner {
+    width: 100%;
+    margin-top: 1em;
+}
+
+/* ----------- NEWS ----------- */
+
 .news article {
     display: flex;
     margin-bottom: 2em;
@@ -23,41 +41,21 @@
     
 }
 
-.custom-disabled-nav-link {
-    color: #909aa2 !important;    
-}
-
-.custom-disabled-nav-link:hover {
-    color: #909aa2 !important;    
-}
-
-/* Members */
+/* ----------- Members ----------- */
 
 .custom-mem-img {
     margin-right: 2em !important;
 }
 
 .custom-mem-txt p {
-    margin-bottom: 0.25em !important;
+    margin-bottom: 0.25em;
 
 }
-
-/*
-.custom-mem-txt a {
-    display: block;
-    border: none !important;
-    margin-bottom: 1em !important;
-}
-*/
 
 .custom-email {
     display: block;
-    border: none !important;
-    margin-bottom: 2em !important;
-}
-
-.custom-width-med {
-    width: 12em;
+    border: none;
+    margin-bottom: 2em;
 }
 
 .custom-mem-box {
@@ -66,8 +64,8 @@
 }
 
 .custom-mem-box h3 {
-    color: #757575 !important;
-    font-weight: 100 !important;
+    color: #757575;
+    font-weight: 100;
 }
 
 .custom-mem-box div {
@@ -81,67 +79,59 @@
 }
 
 .custom-former-graduate-box {
-/*    border-radius: 1em;*/
-/*    padding: 1em;*/
-/*    background-color: #FAFAFA;*/
-/*    border-bottom: 1px solid #BDBDBD;*/
     
 }
 
 .custom-former-graduate-box h3 {
-/*    margin: auto auto !important;*/
-/*    border-bottom: 1px dotted #757575;*/
-    font-weight: 900 !important;
-    margin-bottom: 0.25em !important;
-    
+    font-weight: 900;
+    margin-bottom: 0.25em;    
 }
 
-.full-width {
-    width: 100%;
-}
 
-.space-above {
-    margin-top: 1em;
-}
-
-/* Courses  */
+/* ----------- Courses ----------- */
 
 .custom-course-container {
     display: flex;
     flex-direction: column;
 }
 
-.custom-course-container .custom-btn {
-    margin-bottom: 1.5em !important;
+.custom-course-container .custom-btn, .custom-course-container .card {
+    margin-bottom: 1.5em;
 }
 
-.custom-course-container .card {
-    margin-bottom: 1.5em !important;
-}
-
-/* Publications */
+/* ----------- Publications ----------- */
 
 .custom-pub-container h3 {
     margin-bottom: 0.5em;
-    /*    padding: 10em !important;*/
 }
 
-.custom-pub-icon {
-    height: 2em;
+[href$=".pdf"], [href$=".bib"], [href$=".ppt"] {
+ border: none;
 }
 
-.custom-pub-icon-link {
-    border: none;
+[href$=".pdf"]::after {    
+  content: url('../../images/pdf_icon_small.png');
 }
-/* Header */
+
+[href$=".bib"]::after {    
+  content: url('../../images/bib_icon_small.png');
+}
+
+[href$=".ppt"]::after {    
+  content: url('../../images/powerpoint_icon_small.png');
+}
+
+
+
+/* ----------- Header ----------- */
 
 .custom-header {
     margin-top: 3em;
     padding: 1.3em 0em;
-    border-bottom: #f56a6a 5px solid;
+    border-bottom: var(--main-color) 5px solid;
 
-    display: flex !important;
-    justify-content: space-between !important;
+    display: flex;
+    justify-content: space-between;
 }
 
 .custom-header a {
@@ -153,17 +143,19 @@
 }
 
 .header-logo {
-    float:right;
+    float: right;
     margin-left: 0.5em;
     height: 25px !important;
 }
 
-.custom-sm-btm-space {
+/* ----------- Projects ----------- */
+
+.custom-close-paragraphs {
     margin-bottom: 0.5em;
 }
 
 .custom-project-img-1 {
-    float:left !important;
+    float:left;
     width: 25em;
     overflow: hidden;
     margin: 1em;
@@ -175,15 +167,24 @@
     margin: 1em;
 }
 
+
+
+/* ----------- Other ----------- */
+
+.no-border {
+    border:none;
+}
+
+.custom-width-med {
+    width: 12em;
+}
+
 .custom-page-ending {
     background: linear-gradient(var(--main-color), #e75656);
     width:100%;
     height: 6em;
 }
 
-.custom-course-btn {
-    width: 12em;
-}
 /* ------------------- Arrow ---------------------- */
 
 i {
@@ -218,6 +219,10 @@ i {
 
 [aria-expanded="false"] > .expanded,
 [aria-expanded="true"] > .collapsed {
+
   display: none;
 }
+
+
+
 
