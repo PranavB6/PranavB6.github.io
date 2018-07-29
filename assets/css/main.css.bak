@@ -2621,10 +2621,10 @@ input, select, textarea {
 			display: -webkit-flex;
 			display: -ms-flex;
 			display: flex;
-            flex-direction: column;
+            
 			margin: 0 0 3em 3em;
 			position: relative;
-			width: calc(19.5% - 3em);
+			width: calc(50% - 3em);
 		}
 
 			.features article:nth-child(2n - 1) {

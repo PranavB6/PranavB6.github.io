@@ -45,6 +45,13 @@
 
 .custom-mem-img {
     margin-right: 2em !important;
+    align-items: flex-end;
+    display: flex;
+    
+}
+
+.custom-mem-img img {
+    vertical-align: bottom !important;
 }
 
 .custom-mem-txt p {
@@ -61,6 +68,7 @@
 .custom-mem-box {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-around;
 }
 
 .custom-mem-box h3 {
@@ -71,9 +79,10 @@
 .custom-mem-box div {
     text-align: center;
     width: 32%;
+    min-width: 200px;
 
-    padding-right: 1em;
-    margin-right: 0.5em;
+/*    padding-right: 1em;*/
+/*    margin-right: 0.5em;*/
     margin-bottom: 0.5em;
 
 }
