@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name='resume'>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="name" type="xs:string" />
+
+        <xs:element name="contact-info">
+          <xs:complexType>
+            <xs:all>
+              <xs:element name="phone" type="xs:string" />
+              <xs:element name="email" type="xs:string" />
+            </xs:all>
+          </xs:complexType>
+        </xs:element>
+
+        <xs:element name="education">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="school">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="name" type="xs:string" />
+                    <xs:element name="degree" type="xs:string" />
+                    <xs:element name="grad-year" type="xs:integer"/>
+                    <xs:element name="gpa">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:decimal">
+                            <xs:attribute name="show" type="xs:boolean"/>
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+
+        <xs:element name="work-exp">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="job" minOccurs="1" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="company" type="xs:string" />
+                    <xs:element name="title" type="xs:string" />
+                    <xs:element name="duration">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="start" type="xs:string" />
+                          <xs:element name="end" type="xs:string" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="desc">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="pt" type="xs:string" minOccurs="1" maxOccurs="unbounded" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

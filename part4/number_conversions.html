@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="/styles/sanitize.css" />
+    <link rel="stylesheet" href="/styles/style.css" />
+
+    <script defer src="./js/number-conversions.js"></script>
+  </head>
+  <body class="part4">
+    <header class="header">
+      <a href="index.html">
+        <img src="../imgs/back.svg" alt="" class="icon" />
+      </a>
+
+      <h1 class="title">Number Converter</h1>
+    </header>
+
+    <main class="container flex-col center-y">
+      <div>
+        <input type="text" id="from-input" value="1, 5, 10" />
+        <select name="mode-selector" id="mode-selector"> </select>
+      </div>
+
+      <br />
+      <div id="output">
+        <br />
+        <input type="text" value="10" readonly />
+        <input type="text" value="Decimal (Base 10)" readonly />
+      </div>
+    </main>
+  </body>
+</html>

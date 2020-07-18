@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #263238;
+    line-height: 1.15;
+}
+
+header {
+    height: 100px;
+    background-color: rgba(249, 250, 251, 1);
+    border-bottom: 1px solid #d2d6dc;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .name {
+        font-weight: 600;
+        text-align: center;
+
+        margin-bottom: 10px;
+    }
+
+    .contact-info {
+        .contact-info-item {
+            &:not(:last-child)::after {
+                content: "•";
+                padding: 0 5px;
+            }
+        }
+    }
+}
+
+main {
+    width: 90%;
+    max-width: 800px;
+    margin: 0 auto;
+
+    .section {
+        .section-header {
+            border-bottom: 1px lighten(grey, 10%) solid;
+            font-weight: 600;
+        }
+
+        .school {
+            .name {
+                font-weight: bold;
+            }
+
+            .degree {
+                display: inline-block;
+                font-style: italic;
+            }
+
+            .grad-year {
+                text-align: right;
+            }
+
+            .gpa[hidden] {
+                display: none;
+            }
+        }
+
+        .job {
+            .company {
+                font-weight: bold;
+            }
+
+            .title {
+                font-style: italic;
+            }
+
+            .desc {
+                padding-left: 20px;
+            }
+        }
+    }
+}
+
+.block {
+    display: flex;
+    justify-content: space-between;
+}

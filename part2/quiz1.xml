@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+<quiz>
+  <question text="What does HTML stand for?">
+    <option is-answer="true">HyperText Markup Language</option>
+    <option>Hyper Tornado Machine Learning</option>
+    <option>Home Town Madness Love</option>
+    <option>HyperText Markup Linguistic</option>
+  </question>
+
+  <question text="Which CSS property changes the margins to be 5 pixels on all sides">
+    <option>margin: 5px;</option>
+    <option>margin: 5px 5px;</option>
+    <option>margin: 5px 5px 5px 5px;</option>
+    <option is-answer="true">All of the above</option>
+  </question>
+
+  <question text="Which css property changes the margins to be 5 pixels on all sides">
+    <option>margin: 5px;</option>
+    <option>margin: 5px 5px;</option>
+    <option>margin: 5px 5px 5px 5px;</option>
+    <option is-answer="true">All of the above</option>
+  </question>
+
+  <question text="Which css property changes the margins to be 5 pixels on all sides">
+    <option>margin: 5px;</option>
+    <option>margin: 5px 5px;</option>
+    <option>margin: 5px 5px 5px 5px;</option>
+    <option is-answer="true">All of the above</option>
+  </question>
+</quiz>

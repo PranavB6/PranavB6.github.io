@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+input,
+select {
+  height: 30px;
+  padding: 5px;
+
+  border-radius: 2px;
+  border: 1px solid black;
+}
+
+.value {
+  width: 150px;
+  padding-right: 10px;
+  margin-right: 0px;
+  border: none;
+  border-bottom: 2px solid black;
+
+  text-align: right;
+}
+
+.value:focus {
+  outline: none;
+}
+
+.unit {
+  width: 60px;
+
+  text-align: left;
+  border: none;
+  border-bottom: 2px solid black;
+}
+
+.unit:focus {
+  outline: none;
+}
+
+.hidden {
+  display: none;
+}
