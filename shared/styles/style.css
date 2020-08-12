@@ -13,6 +13,10 @@ ul {
   margin: 0;
 }
 
+a {
+  text-decoration: none;
+}
+
 .nav {
   height: 60px;
   width: 100%;
@@ -25,6 +29,10 @@ ul {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+}
+
+.nav.nav-border-0 ul {
+  border: 0;
 }
 
 .nav ul {
@@ -96,15 +104,6 @@ main .desc {
   line-height: 1.65;
 }
 
-main .btns {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-}
-
 .space-items li {
   margin-bottom: 5px;
 }
@@ -146,6 +145,19 @@ main .btns {
 
 .btn:focus {
   outline: none;
+}
+
+.part2 .header.header-banner {
+  background-color: #ffe53b;
+  background-image: linear-gradient(147deg, #ffe53b 0%, #ff2525 74%);
+}
+
+.part2 .header.header-banner .title {
+  color: white;
+}
+
+.part2 .header.header-banner .subtitle {
+  color: white;
 }
 
 .part2 #quiz .question {
@@ -254,7 +266,7 @@ main .btns {
 }
 
 .code-block {
-  max-height: 600px;
+  max-height: 500px;
   margin-bottom: 10px;
   padding: 1.25rem;
   overflow: auto;
@@ -283,6 +295,14 @@ main .btns {
 
 .text-center {
   text-align: center;
+}
+
+.text-red {
+  color: red;
+}
+
+.text-green {
+  color: green;
 }
 
 .bg-dark, .nav.nav-dark, .header.header-dark {

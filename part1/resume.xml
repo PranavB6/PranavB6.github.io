@@ -9,6 +9,35 @@
     <email>pranavku@ualberta.ca</email>
   </contact-info>
 
+  <general-info>
+
+    <languages>
+      <language>SQL</language>
+      <language>Java</language>
+      <language>C, C++</language>
+      <language>HTML</language>
+      <language>CSS</language>
+      <language>Python</language>
+      <language>Javascript</language>
+      <language>Angular</language>
+      <language>Android</language>
+    </languages>
+
+    <hobbies>
+      <hobby>Soccer</hobby>
+      <hobby>Programming</hobby>
+      <hobby>Swimming</hobby>
+      <hobby>Cooking</hobby>
+    </hobbies>
+
+    <awards>
+      <award>University of Alberta Academic Excellence Scholarship 2016</award>
+      <award>Awarded Jason Lang Scholarship 2017</award>
+    </awards>
+
+    <liscense>Class 5 Advanced driver’s license with a clean record</liscense>
+  </general-info>
+
 
   <education>
     <school>

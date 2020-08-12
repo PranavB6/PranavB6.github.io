@@ -5,15 +5,165 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Unit 2</title>
 
-    <link rel="stylesheet" href="../styles/sanitize.css" />
-    <link rel="stylesheet" href="../styles/style.css" />
+    <link rel="stylesheet" href="../shared/styles/sanitize.css" />
+    <link rel="stylesheet" href="../shared/styles/style.css" />
+
+    <script defer src="./js/quiz.js"></script>
   </head>
-  <body>
+  <body class="part2">
+    <nav class="nav nav-border-0">
+      <ul>
+        <li>
+          <a href="index.html"><strong>Fast Track</strong></a>
+        </li>
+        <li><a href="unit1.html">Unit 1</a></li>
+        <li><a href="unit2.html">Unit 2</a></li>
+        <li><a href="unit3.html">Unit 3</a></li>
+        <li>|</li>
+        <li>
+          <a href="unit1.html#quiz">Quiz 1</a>
+        </li>
+        <li>
+          <a href="unit2.html#quiz">Quiz 2</a>
+        </li>
+        <li>
+          <a href="unit3.html#quiz">Quiz 3</a>
+        </li>
+      </ul>
+    </nav>
+
     <header class="header">
-      <a href="index.html">
-        <img src="../imgs/back.svg" alt="" class="icon" />
-      </a>
-      <h1 class="title">Unit 3</h1>
+      <h1 class="title">Unit 3 - XML and AJAX</h1>
     </header>
+
+    <main class="container">
+      <p>The purpose of this unit is to learn XML and AJAX</p>
+      <section>
+        <h2>What is XML (Extensible Markup Language)</h2>
+        <ul>
+          <li>
+            XML is a format of data - it is a way to describe, store and
+            transfer data
+          </li>
+          <li>
+            If an XML parser can successfully process an XML file, that xml file
+            is "well-formed"
+          </li>
+          <li>
+            A Document Type Definition (DTD) can be used to validate an XML file
+            to ensure that it meets the defined structure
+          </li>
+          <li>
+            Extensible StyleSheet Language (XSL) can be used to present the XML
+            information in a more useful way
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>XML Basics</h2>
+        <ul>
+          <li>
+            XML documents can optionally start with a line declaring that it is
+            an XML file
+          </li>
+
+          <li>
+            XML documents are made up of elements (with names) which usually
+            have a start and end tag
+            <ul>
+              <li>eg. &lt;element&gt; Element Content &lt;/element&gt;</li>
+            </ul>
+          </li>
+
+          <li>
+            Elements can be nested within one another: eg. &lt;element&gt;
+            &lt;nested&gt; Nested Element Data &lt;/nested&gt; &lt;/element&gt;
+          </li>
+          <li>
+            There is one element, the root element, which encompasses all the
+            other elements on the page
+          </li>
+          <li>
+            Elements may have attributes which define more information about the
+            element &lt;element attribute="more info" &gt; Element Content
+            &lt;/element&gt; XML namespaces help to reduce naming collisions
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>AJAX</h2>
+        <ul>
+          <li>
+            AJAX stands for Asynchronous JavaScript and XML
+          </li>
+          <li>
+            Allows for partial page updates (as opposed to reloading the entire
+            web page), making web applications more responsive, and feel more
+            like desktop applications
+          </li>
+          <li>
+            This leads to the creation of Rich Internet Applications (RIAs)
+          </li>
+          <li>
+            In an AJAX application:
+            <ul>
+              <li>
+                The client sends an XmlHttpRequest and awaits for the response
+              </li>
+              <li>
+                Since the request is asynchronous, the user can still interact
+                with the client application while it is waiting
+              </li>
+              <li>
+                When the response is received, the client can update part of the
+                web page to show the response information
+              </li>
+            </ul>
+          </li>
+        </ul>
+        <br />
+        <pre class="code code-block">
+// AJAX Example 
+
+let xhr;
+createAndSendRequest();
+
+function createAndSendRequest() {
+  // create request
+  xhr = new XMLHttpRequest();
+
+  // register event handler
+  xhr.addEventListener("readystatechange", handleStateChange, false)
+
+  // prepare request
+  xhr.open("GET", url, true);
+
+  // send request
+  xhr.send(null);
+}
+
+function handleStateChange() {
+  // readyState = 4 means that the request is complete
+  // status = 200 means the request was successfull
+  if (xhr.readyState == 4 && xhr.status == 200) {
+    let response = xhr.responseText;
+    console.log("Response:", response);
+    document.getElementById("responseText").innerHTML = response;
+  }
+}
+          </pre
+        >
+      </section>
+
+      <hr class="hr" />
+
+      <section id="quiz" file="quiz3.xml">
+        <h1 class="text-center">Quiz</h1>
+      </section>
+      <button class="btn mt-3" onclick="mark();">Submit</button>
+      <p id="quiz-result"></p>
+    </main>
   </body>
 </html>

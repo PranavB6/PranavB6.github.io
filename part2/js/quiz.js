@@ -11,7 +11,7 @@ function init() {
 
   xhr.onload = function () {
     if (this.status != 200) {
-      console.log("something fucked up");
+      console.log("something messed up");
     }
 
     let xml = this.responseXML;
@@ -92,19 +92,37 @@ function createLabel(value, id) {
 }
 
 function mark() {
+  console.log("marking...");
   let questions = [...quizContainer.querySelectorAll(".question")];
   let correct = 0;
   let total = questions.length;
 
-  questions.forEach((question) => {
-    let options = [...question.querySelectorAll("input")];
+  questions.forEach((question, idx) => {
+    console.log("question:", idx + 1);
+    let options = [...question.querySelectorAll(".option")];
+
     options.forEach((option) => {
-      if (option.getAttribute("is-answer") == "true" && option.checked) {
+      let input = option.querySelector("input");
+      let label = option.querySelector("label");
+
+      label.classList.remove("text-green");
+      label.classList.remove("text-red");
+
+      if (input.checked) {
+        label.classList.add("text-red");
+      }
+
+      if (input.getAttribute("is-answer") == "true") {
+        label.classList.add("text-green");
+      }
+
+      if (input.getAttribute("is-answer") == "true" && input.checked) {
         correct += 1;
       }
     });
   });
 
   let percent = (correct * 100) / total;
+  percent = percent.toFixed(2);
   quizResult.textContent = `You scored ${percent}% with ${correct} out of ${total} correct!`;
 }

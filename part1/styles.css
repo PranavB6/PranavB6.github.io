@@ -1,15 +1,35 @@
 @charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap");
+h1,
+h2,
+h3 {
+  color: #3d4449;
+}
+
+h1 {
+  margin-top: 0px;
+  font-size: 3rem;
+}
+
+h3 {
+  margin-bottom: 0.25rem;
+}
+
+ul {
+  margin-top: 0.25rem;
+}
+
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-  color: #263238;
-  line-height: 1.15;
+  font-family: "Roboto Slab", serif;
+  color: #7f888f;
+  line-height: 1.5;
 }
 
 header {
-  height: 100px;
+  padding: 1rem 0;
   background-color: #f9fafb;
-  border-bottom: 1px solid #d2d6dc;
+  border-bottom: 0.5px solid #d1d4d6;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -26,6 +46,10 @@ header .name {
   font-weight: 600;
   text-align: center;
   margin-bottom: 10px;
+}
+
+header .contact-info {
+  font-size: 1.25rem;
 }
 
 header .contact-info .contact-info-item:not(:last-child)::after {

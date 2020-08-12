@@ -15,6 +15,35 @@
           </xs:complexType>
         </xs:element>
 
+        <xs:element name="general-info">
+          <xs:complexType>
+            <xs:all>
+              <xs:element name="languages">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="language" minOccurs="1" maxOccurs="unbounded" type="xs:string"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="hobbies">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="hobby" minOccurs="1" maxOccurs="unbounded" type="xs:string"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="awards">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="award" minOccurs="0" maxOccurs="unbounded" type="xs:string"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="liscense" minOccurs="0" type="xs:string"/>
+            </xs:all>
+          </xs:complexType>
+        </xs:element>
+
         <xs:element name="education">
           <xs:complexType>
             <xs:sequence>
@@ -39,7 +68,6 @@
             </xs:sequence>
           </xs:complexType>
         </xs:element>
-
 
         <xs:element name="work-exp">
           <xs:complexType>
