@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pico</title>
+
+    <link rel="stylesheet" href="styles/style.css" />
+  </head>
+  <body>
+    <nav class="navbar navbar-light bg-white justify-content-center border-bottom border-primary">
+      <div class="container">
+        <a href="/" class="navbar-brand">
+          <img src="./imgs/logo.png" width="70px" />
+        </a>
+        <ul class="nav navbar-nav flex-row justify-content-center text-uppercase">
+          <li class="nav-item"><a class="nav-link px-3" href="./index.html">Home</a></li>
+          <li class="nav-item"><a class="nav-link px-3" href="">Cart</a></li>
+          <li class="nav-item"><a class="nav-link px-3" href="">Orders</a></li>
+          <li class="nav-item"><a class="nav-link px-3" href="">Login</a></li>
+        </ul>
+        <div style="width: 70px"></div>
+      </div>
+    </nav>
+
+    <main class="container font-weight-bold">
+      <h4 class="text-uppercase text-center mt-5">Configure Basic Level PC</h4>
+
+      <form class="w-25 mx-auto mt-4">
+        <div class="input-group mb-3">
+          <div class="input-group-prepend">
+            <span class="input-group-text">RAM</span>
+          </div>
+          <select class="custom-select">
+            <option value="1">32 GB</option>
+            <option value="2">64 GB</option>
+            <option value="3">128 GB</option>
+          </select>
+        </div>
+
+        <div class="input-group mb-3">
+          <div class="input-group-prepend">
+            <span class="input-group-text">CPU</span>
+          </div>
+          <select class="custom-select">
+            <option value="1">Core i7</option>
+            <option value="2">Core i8</option>
+            <option value="3">AMD Ryzen 5</option>
+          </select>
+        </div>
+
+        <div class="input-group mb-3">
+          <div class="input-group-prepend">
+            <span class="input-group-text">Display</span>
+          </div>
+          <select class="custom-select">
+            <option value="1">32 GB</option>
+            <option value="2">64 GB</option>
+            <option value="3">128 GB</option>
+          </select>
+        </div>
+
+        <div class="border-top border-bottom p-2 mt-5">Total: $500</div>
+
+        <div class="d-flex justify-content-center mt-4">
+          <a href="./orders.html" class="btn btn-primary">Add To Cart</a>
+        </div>
+      </form>
+    </main>
+  </body>
+</html>
